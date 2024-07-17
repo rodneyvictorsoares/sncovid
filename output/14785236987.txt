@@ -1,0 +1,11 @@
+Nome: Terezinha Valenciana
+CPF: 14785236987
+Endereco: Travessa vingadores da Silva, 158
+Cidade: Marituba
+Bairro: Centralzinho
+CEP: 660258789
+Data de Nascimento: 12/12/1994
+Data do Diagnostico: 13/10/2023
+Idade: 29
+E-mail: valenciana@outlook.com
+Comorbidade(s): Nenhuma

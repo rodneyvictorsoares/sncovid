@@ -1,0 +1,11 @@
+Nome: Elizabeth Rodolfiana
+CPF: 78945612321
+Endereco: Rua das Sopianolocas, 879
+Cidade: Ananindeua
+Bairro: Guanabara
+CEP: 65023140
+Data de Nascimento: 12/10/1995
+Data do Diagnostico: 13/10/2023
+Idade: 28
+E-mail: rodolfiana@gmail.com
+Comorbidade(s): Obesidade elevada

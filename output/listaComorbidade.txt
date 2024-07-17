@@ -1,0 +1,3 @@
+CEP: 66052123;Idade: 74;Comorbidade: Cardiopatia Congenita. 
+CEP: 65023140;Idade: 28;Comorbidade: Obesidade elevada. 
+CEP: 66012541;Idade: 24;Comorbidade: Asma. 

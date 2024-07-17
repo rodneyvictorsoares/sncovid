@@ -1,0 +1,11 @@
+Nome: Xarivan Gaiares
+CPF: 12345678998
+Endereco: Rua das Condolencias, 2654
+Cidade: Belem
+Bairro: Guama
+CEP: 66052123
+Data de Nascimento: 23/08/1949
+Data do Diagnostico: 11/10/2023
+Idade: 74
+E-mail: nao possui
+Comorbidade(s): Cardiopatia Congenita

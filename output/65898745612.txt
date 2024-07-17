@@ -1,0 +1,11 @@
+Nome: Belarmino
+paciente_cpf: 65898745612
+Endereco: Rua Novo Exemplo 23
+Cidade: Belem
+Bairro: Barreiro
+CEP: 66012541
+Data de Nascimento: 12/12/2000
+Data do Diagnostico: 16/05/2024
+Idade: 24
+E-mail: belozinho@gmail.com
+Comorbidade(s): Asma
